@@ -5,7 +5,7 @@ This project analyzes the impact of various marketing channels and business acti
 
 ---
 
-([Open Notebook in Google Colab](https://colab.research.google.com/drive/1SrJGpzKkMq7jENRYyXuoJslYM2V8g8db?usp=sharing))
+([NoteBook Link](https://colab.research.google.com/drive/1SrJGpzKkMq7jENRYyXuoJslYM2V8g8db?usp=sharing))
 
 
 ## Raw Data
