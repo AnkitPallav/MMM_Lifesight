@@ -7,7 +7,7 @@ This project analyzes the impact of various marketing channels and business acti
 
 ([NoteBook Link](https://colab.research.google.com/drive/1SrJGpzKkMq7jENRYyXuoJslYM2V8g8db?usp=sharing))
 
-## MMM Mediator Assumption
+## MMM Mediator Observation
 ![Feature Importance](Feature%20Importance.jpg)
 
 
